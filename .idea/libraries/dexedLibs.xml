@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/youkumenu/Zhuanti_Custom_View_YouKu_Menu/bin/dexedLibs/android-support-v4-6f9d36b42a1f05d28459db6ee077d201.jar!/" />
+      <root url="jar://$PROJECT_DIR$/youkumenu/Zhuanti_Custom_View_YouKu_Menu/bin/dexedLibs/android-support-v4-ccdfbefeb755277b1df15b35ba23986e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
